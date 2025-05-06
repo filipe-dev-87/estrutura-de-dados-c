@@ -1,0 +1,47 @@
+# Compilados e arquivos binários
+*.o
+*.obj
+*.exe
+*.out
+*.gch
+*.a
+*.so
+*.dll
+
+# Arquivos de backup e temporários
+*~
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# Diretórios de build comuns
+/build/
+/bin/
+/debug/
+/release/
+/dist/
+
+# Code::Blocks
+*.layout
+*.depend
+*.cbp
+*.layout.save
+*.autosave
+*.workspace
+
+# Dev-C++
+*.dev
+*.depend
+*.layout
+*.obj
+
+# Falcon IDE (supondo base similar a outras IDEs C; ajuste se necessário)
+*.falconproject
+*.falconworkspace
+.falcon/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
