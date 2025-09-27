@@ -19,5 +19,5 @@ As implementações estão organizadas em tópicos, com exemplos e exercícios:
 ## 🛠️ Tecnologias Utilizadas
 
 - Linguagem **C**
-- IDEs sugeridas: **Code::Blocks**, **VS Code**, ou outra de sua preferência
+- IDEs sugeridas: **Code::Blocks** ou outra de sua preferência
 - **Git/GitHub** para versionamento
