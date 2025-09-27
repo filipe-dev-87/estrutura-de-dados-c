@@ -19,5 +19,6 @@ As implementações estão organizadas em tópicos, com exemplos e exercícios:
 ## 🛠️ Tecnologias Utilizadas
 
 - Linguagem **C**
+- Compilador **GNU GCC MinGW-w64**
 - IDEs sugeridas: **Code::Blocks** ou outra de sua preferência
 - **Git/GitHub** para versionamento
